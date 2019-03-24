@@ -1,1 +1,1 @@
-# myproject
+# ping-pong game
